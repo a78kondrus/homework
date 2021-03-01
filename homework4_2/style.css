@@ -1,0 +1,95 @@
+body {
+    margin: 0px;
+    background: rgb(153, 9, 9)
+    
+}
+header {
+    padding-top: 19px;
+    margin: auto;
+    text-align: center;
+} 
+div.galery {
+    height: 159px;
+    background: black;
+    margin: 0px;
+    }
+    table {
+        margin: auto;
+        
+    }
+    .picture td {
+        padding: 20px 40px 0px 20px;
+     
+    }
+    .picture td img {
+        width: 152px;
+        height: 114px;
+    }
+    .picture p {
+        margin: 0 auto;
+        text-align: center;
+        color: white;
+        font-size: 12px;
+    }
+    td {
+        padding: 0;
+            }
+    .content {
+        width: 100%;
+    }
+    .content nav {
+        width: 200px;
+        height: 250px;
+        background: rgb(125, 9, 9);
+    }
+    .content nav div {
+        margin-bottom: 20px;
+    }
+    .content nav a {
+        color: rgb(233, 91, 17);
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 14px;
+    }
+    div.centr-text {
+        width: 580px;
+           }
+    .centr-text p {
+        color: white;
+        text-align: justify;
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 14px;
+    }
+    .td3 {
+        width: 128px;
+        height: 250px;
+        background: rgb(227, 221, 221);
+    }
+   
+    .td3 h2 {
+        height: 18px;
+        text-align: center;
+        background-color: rgb(189, 189, 189);
+        font-size: 18px;
+        !==margin-top: -64px;    
+    }
+    hr {
+        width: 77px;
+        height: 0,5px;
+        background-color: rgb(154, 154, 154);
+        margin-top: -7px;
+    }
+    .td3 p {
+text-align: left;
+font-size: 12px;
+font-family: 'Times New Roman', Times, serif;
+    }
+    footer {
+        width: 100%;
+        height: 20px;
+        background-color: rgb(233, 91, 17);
+        margin-top: 20px;
+        color: white;
+        text-align: center;
+        font-size: 12px;
+        
+    }
