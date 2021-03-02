@@ -1,0 +1,44 @@
+html, head {
+    margin: 0 auto;
+}
+body {
+    background: black;
+    margin: 0 auto;
+}
+main {
+    margin: 0 auto;
+    width: 230px;
+    padding-top: 120px;
+}
+#Logo {
+padding-left: 58px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin-top: 43px;
+   }
+ table, tr, td {
+   padding-top: 2px;
+    margin: 0 auto; 
+    text-align: center;
+    width: 230px;
+    height: 20px;
+ }
+ footer {
+  padding-top: 90px;
+    margin: 0 auto; 
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: 15px;
+    text-align: center;
+    color: white;
+ }
+ span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+   text-align: center;
+  color: rgb(0, 159, 252);
+
+ }
