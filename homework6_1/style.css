@@ -1,0 +1,57 @@
+table {
+    width: 874px;
+    margin: 0 auto;
+    }
+    td {
+        width: 293px;
+        text-align: center;
+        padding: 0px;
+        box-sizing: border-box;
+        }
+    .icon {
+        width: 63px;
+        height: 63px;
+        background-color: #1275b9;
+        border-radius: 50%;
+        margin: 0 auto;
+        background-repeat: no-repeat;
+        background-position: center;
+        border: 1px solid  #1275b9;
+        box-sizing: border-box;
+        nsition: background-color .1s ease-in-out, background-image .1s ease-in-out; 
+    }
+    td:hover .icon {
+        background-color: white;
+        border: 1px solid  #1275b9;
+    }
+    .icon1 {
+        background-image: url(/img/Tablet.svg);
+    }
+    td:hover>.icon1 {
+        background-image: url(/img/Tablet_activ.svg);
+    }
+    .icon2 {
+        background-image: url(/img/Settings.svg);
+    }
+    td:hover>.icon2 {
+        background-image: url(/img/Settings_activ.svg);
+    }
+    .icon3 {
+        background-image: url(/img/Dashboard.svg);
+     }
+     td:hover>.icon3{
+        background-image: url(/img/Dashboard_activ.svg);
+     }
+     h2 {
+         font-size: 14px;
+         font-weight: bold;
+     }
+     span {
+         display: block;
+         width: 250px;
+         height: 40px;
+         margin: 0 auto;
+         font-size: 14px;
+         color: #d6bcbc;
+         text-align: center;
+     }
