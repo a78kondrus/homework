@@ -1,0 +1,54 @@
+.conteiner {
+    width: 1160px;
+    height: 700px;
+        padding: 0px;
+    margin: auto;
+}
+header {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 42px;
+    margin-bottom: 26px;
+ }
+ span {
+   
+    margin-top: -51px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 110px;
+    float: left;
+ }
+ p {
+     font-family: 'Lato';
+     font-size: 20px;
+     font-style: normal;
+     font-weight: lighter;
+     margin-bottom: 0px;
+ }
+ .p4 {
+    font-family: 'Lato';
+    font-size: 20px;
+    font-style: italic;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    margin: 59px 0px 0px 12px;
+ }
+ .p5 {
+    width: 265px;
+    height: 68px;
+    margin-left: 3px;
+ color:  #eaa258;
+ text-align: center;
+    font-family: 'Lato';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    letter-spacing: 6px;
+    border: 2px solid #eaa258;
+    padding-top: 19px;
+    box-sizing: border-box;
+}
+
+ 
