@@ -15,9 +15,7 @@ div {
     height: 80%;
     background-color: white;
     box-sizing: border-box;
-    
-    
-}
+  }
 div:nth-child(2) {
     height: 90%;
 }
@@ -77,3 +75,4 @@ p {
    margin: auto;
     margin-top: 41px;
    margin-bottom: 0px;
+  }
