@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&display=swap');
+.conteiner {
+    display: flex;
+    width: 1200px;
+    height: 600px;
+    background: #fdde7e;
+    justify-content: space-around;
+    align-items: center;
+    box-sizing: border-box;
+    margin: auto;
+ 
+}
+div {
+    width: 30%;
+    height: 80%;
+    background-color: white;
+    box-sizing: border-box;
+  }
+div:nth-child(2) {
+    height: 90%;
+}
+.div1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+ 
+p {
+    text-align: center;
+}
+  p:nth-child(1) {
+    margin-top: 25px;
+    margin-bottom: 0px;
+  }
+  p:nth-child(2) {
+    background-repeat: no-repeat;
+    margin-top: 42px;
+    margin-bottom: 0px;
+  }
+  p:nth-child(3) {
+      font-size: 56px;
+      font-family: "Miso";
+     margin-top: 39px;
+     margin-bottom: 0px;
+  }
+  p:nth-child(4) {
+    width: 154px;
+    font-size: 20px;
+    font-family: "Lato";
+    color: #343434;
+   margin: auto;
+    margin-top: 41px;
+   margin-bottom: 0px;
+}
+
+  .div2:nth-child(1)>p {
+    margin-top: 25px;
+    margin-bottom: 0px;
+  }
+  .div2:nth-child(2)>p {
+    background-repeat: no-repeat;
+    margin-top: 54px;
+    margin-bottom: -11px;
+  }
+  .div2:nth-child(3)>p {
+      font-size: 56px;
+     margin-top: 39px;
+     margin-bottom: 0px;
+  }
+  div:nth-child(4)>p {
+    width: 154px;
+    font-size: 20px;
+    font-family: "Lato";
+    color: #343434;
+   margin: auto;
+    margin-top: 41px;
+   margin-bottom: 0px;
+  }
