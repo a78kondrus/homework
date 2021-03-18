@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 26" width="20" height="26">
+	<defs>
+		<image width="48" height="48" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAQAAAD9CzEMAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAACYktHRAD/h4/MvwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAOJJREFUWMPt1i0OwkAYhOGFEBw/B+AACBwXaILF4Ug4AH8pBkGC4ggQNFfAoblFT0BwWBpSXhTkqwDDjmiyW9cRj+jOpA6nfVwAAlB04Nt5cuPMgpoKeJ8rfS0AGSMtAHc6WgBOfgD7vs6Uu/nkLd+AwzEz2VABNEy2UgBNky0VQGyyyDfQJCb9JAll5TXN6Gl7MNc2eaveIjhQVU/FkZIWgIn/HuTX6ELFf9HyaxQpALtGsQKwa7RWAHaNxr6B/BpBV3tNE3UPBlpgr5yKB5tfQ/EPkJKwox1+3wMQgAAUAXgBd4CwTDg+01EAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Document Header">
+		<g id="Control Bar">
+			<g id="Icons">
+				<use id="ic_format_bold_white_24dp" style="opacity: 0.502" href="#img1" transform="matrix(0.917,0,0,0.917,-13,-7)"/>
+			</g>
+		</g>
+	</g>
+</svg>
