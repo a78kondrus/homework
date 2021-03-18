@@ -9,33 +9,31 @@ body {
     margin: auto;
 }
 .blog {
-    position: relative;
-    left: 657px;
-    top: 104px;
+   display: inline-block;
+   margin: 100px 650px 0px 650px;
     font-family: 'Raleway';
     font-size: 90px;
     font-style: normal;
     font-weight: bold;
     color: white;
 }
-.header>p {
+.header--p {
     display: block;
     width: 570px;
     margin: auto;
-    position: relative;
-    left: 465x;
-    top: 142px;
+    margin-top: 21px;
     text-align: center;
     font-family: 'Raleway';
     font-size: 17px;
     font-style: normal;
     font-weight: lighter;
     color: white;
+    
   }
   .conteiner-img {
       margin: auto;
       position: relative;
-    top: 213px;
+    top: 50px;
     left: 135px;
   }
   .conteiner-img>div {
